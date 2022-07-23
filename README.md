@@ -40,4 +40,4 @@ Para seguir os tutoriais disponíveis aqui, é bom que você já tenha alguma ex
 
 ## Referências
 
-* [Lista]() de projetos de sistemas operacionais de código livre em que você pode estudar, se inspirar e colaborar.
+* [Lista](https://github.com/felipenlunkes/osdevbr/blob/main/Refer%C3%AAncias/SO.md) de projetos de sistemas operacionais de código livre em que você pode estudar, se inspirar e colaborar.
