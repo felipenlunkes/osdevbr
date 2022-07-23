@@ -30,6 +30,6 @@ Todos os meus projetos só foram possíveis graças a outros que me inspiraram o
 Os sistemas citados abaixo são projetos de grande porte, consolidados e com anos de desenvolvimento. Eles são mais complexos para se estudarm e muitas vezes não tão bem documentados, mas mostram a complexidade que um projeto de produção pode atingir:
 
 * [FreeBSD](https://www.freebsd.org/) - o descendente do Unix
-* [XNU/Darwin](https://github.com/apple/darwin-xnu) - Mach e BSD, uma ótima união
+* [XNU/Darwin](https://github.com/apple/darwin-xnu) - Mach e FreeBSD, uma ótima união
 * [Linux kernel](https://kernel.org) - o melhor de todos os mundos
 * [Google Fuchsia](https://fuchsia.googlesource.com/fuchsia/) - o caçula do pedaço
