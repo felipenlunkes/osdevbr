@@ -2,6 +2,8 @@
 <a href="https://github.com/felipenlunkes/osdevbr"><img height="250" src="https://github.com/felipenlunkes/osdevbr/blob/main/img/header.gif"></a>&nbsp;&nbsp;
 </p>
 
+> Atenção! O conteúdo está sendo adicionado aos poucos! Muita coisa ainda pode estar em branco!
+
 # Bem-vindo!
 
 Meu nome é Felipe Lunkes e, neste repositório, vou tentar condensar tudo o que consegui agregar nestes quase 10 anos de interesse, pesquisa e criação de código na área de design e implementação de sistemas operacionais. Há alguns anos venho estudando e desenvolvendo, como hobby, sistemas operacionais. Essa atividade gerou alguns frutos, dois sistemas operacionais atualmente em desenvolvimento e de código aberto, que podem inclusive receber contribuições da comunidade e que serão citados nos tutoriais, como exemplo de código. São eles o [Hexagonix](https://github.com/hexagonix) e o [Lunix OS](https://github.com/felipenlunkes/lunix). Além disso, irei citar diversos projetos de código aberto que me serviram de inspiração ou me ajudaram a compreender o funcionamento de vários componentes de um sistema operacional ou de hardware. Lembrando que você pode criar um fork de todos os projetos citados aqui e adicionar suas modificações, criando um campo de teste para praticar o que você vir aqui ou pesquisar por conta própria. Vale ressaltar que o [Hexagonix](https://github.com/hexagonix) é todo documentado em português, e busco colaboradores para auxiliar no desenvolvimento de ambos os sistemas (Hexagonix e Lunix OS). Sempre que possível, deixarei referências bibliográficas dos tópicos abordados aqui, para que você possa ler mais por conta própria.
@@ -50,6 +52,18 @@ Agora vamos, finalmente, ao tutorial!
 
 > Agora vamos ver mais sobre os componentes e como escrever o código!
 
+* [O boot de um sistema operacional](https://github.com/felipenlunkes/osdevbr/blob/main/Tutoriais/BOOT.md)
+* [Loader](https://github.com/felipenlunkes/osdevbr/blob/main/Tutoriais/LOADER.md)
+* [O kernel](https://github.com/felipenlunkes/osdevbr/blob/main/Tutoriais/KERNMK.md)
+* [API](https://github.com/felipenlunkes/osdevbr/blob/main/Tutoriais/API.md)
+* [Lib e Libc](https://github.com/felipenlunkes/osdevbr/blob/main/Tutoriais/LIB.md)
+* [Userland](https://github.com/felipenlunkes/osdevbr/blob/main/Tutoriais/USERLAND.md)
+* [Construindo e executando o sistema](https://github.com/felipenlunkes/osdevbr/blob/main/Tutoriais/VIRT.md)
+
 ## Referências
 
-* [Lista](https://github.com/felipenlunkes/osdevbr/blob/main/Refer%C3%AAncias/SO.md) de projetos de sistemas operacionais de código livre em que você pode estudar, se inspirar e colaborar.
+> A seguir, uma lista com vários projetos que você pode utilizar como base de estudos:
+
+* [Lista](https://github.com/felipenlunkes/osdevbr/blob/main/Refs/SO.md) de projetos de sistemas operacionais de código livre em que você pode estudar, se inspirar e colaborar.
+
+> Lista de bibliografia que pode ser consultada:
