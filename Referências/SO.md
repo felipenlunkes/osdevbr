@@ -8,13 +8,13 @@ Todos os meus projetos só foram possíveis graças a outros que me inspiraram o
 
 ### Sistemas operacionais menos complexos
 
-* [Hexagonix](https://github.com/hexagonix) - minha autoria
-* [Lunix OS](https://github.com/felipenlunkes/lunix) - minha autoria
-* [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) - minha autoria
-* [MikeOS](http://mikeos.sourceforge.net/)
-* [Linux 0.1.1](https://kernel.org)
-* [LittleKernel](https://github.com/littlekernel/lk)
-* [PX-DOS](https://github.com/felipenlunkes/PX-DOS) - minha autoria, baseado no [PDOS](https://pdos.org)
+* [Hexagonix](https://github.com/hexagonix) - minha autoria, sob licença BSD
+* [Lunix OS](https://github.com/felipenlunkes/lunix) - minha autoria, sob licença BSD
+* [Bin S.O](https://github.com/felipenlunkes/Bin-S.O) - minha autoria, sob licença GPL v3
+* [MikeOS](http://mikeos.sourceforge.net/), sob licença BSD-like
+* [Linux 0.1.1](https://kernel.org), sob licença GPL
+* [LittleKernel](https://github.com/littlekernel/lk), sob licença MIT
+* [PX-DOS](https://github.com/felipenlunkes/PX-DOS) - minha autoria, baseado no [PDOS](https://pdos.org), sob licença BSD.
 
 > Alguns desses sistemas citados aqui estão em domínio público. Isso significa que você pode utilizar o código sem nenhuma restrição, criando trabalhos derivados, comerciais ou não, e relicenciar da forma que achar melhor (de preferência em alguma licença livre).
 
@@ -29,7 +29,7 @@ Todos os meus projetos só foram possíveis graças a outros que me inspiraram o
 
 Os sistemas citados abaixo são projetos de grande porte, consolidados e com anos de desenvolvimento. Eles são mais complexos para se estudarm e muitas vezes não tão bem documentados, mas mostram a complexidade que um projeto de produção pode atingir:
 
-* [FreeBSD](https://www.freebsd.org/) - o descendente do Unix
-* [XNU/Darwin](https://github.com/apple/darwin-xnu) - Mach e FreeBSD, uma ótima união
-* [Linux kernel](https://kernel.org) - o melhor de todos os mundos
-* [Google Fuchsia](https://fuchsia.googlesource.com/fuchsia/) - o caçula do pedaço
+* [FreeBSD](https://www.freebsd.org/) - o descendente do Unix, sob licença BSD
+* [XNU/Darwin](https://github.com/apple/darwin-xnu) - Mach e FreeBSD, uma ótima união (Apple Inc.)
+* [Kernel Linux](https://kernel.org) - o melhor de todos os mundos, sob licença GPL v2
+* [Google Fuchsia OS](https://fuchsia.googlesource.com/fuchsia/) - o caçula do pedaço
