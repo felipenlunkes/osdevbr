@@ -8,7 +8,7 @@ Meu nome é Felipe Lunkes e, neste repositório, vou tentar condensar tudo o que
 
 <hr>
 
-# O que você já precisa dominar?
+# O que você já precisa conhecer?
 
 Para seguir os tutoriais disponíveis aqui, é bom que você já tenha alguma experiência em algumas ferramentas que são necessárias para prosseguir com as etapas que serão apresentadas. São elas:
 
