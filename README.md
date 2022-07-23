@@ -1,1 +1,1 @@
-[![Header](https://raw.githubusercontent.com/felipenlunkes/osdevbr/master/img/header.png "Header")]
+[![Header](https://github.com/felipenlunkes/osdevbr/blob/main/img/header.gif "Header")]
