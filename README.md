@@ -36,7 +36,19 @@ Para seguir os tutoriais disponíveis aqui, é bom que você já tenha alguma ex
 
 # Vamos lá?
 
+Agora vamos, finalmente, ao tutorial!
+
 ## Tutorial
+
+> Essa primeira etapa traz conceitos de sistemas operacionais, sua história e seus componentes. Ela é o básico para compreender o que é cada coisa.
+
+* [O que é um sistema operacional?](https://github.com/felipenlunkes/osdevbr/blob/main/Tutoriais/SO.md)
+* [Um pouco de história, focada no Unix](https://github.com/felipenlunkes/osdevbr/blob/main/Tutoriais/UNIX.md)
+* [O que é um kernel?](https://github.com/felipenlunkes/osdevbr/blob/main/Tutoriais/KERNEL.md)
+* [O que é hardware?](https://github.com/felipenlunkes/osdevbr/blob/main/Tutoriais/HARDWARE.md)
+* [O que é um sistema de arquivos?](https://github.com/felipenlunkes/osdevbr/blob/main/Tutoriais/FS.md)
+
+> Agora vamos ver mais sobre os componentes e como escrever o código!
 
 ## Referências
 
