@@ -6,6 +6,8 @@
 
 Meu nome é Felipe Lunkes e, neste repositório, vou tentar condensar tudo o que consegui agregar nestes quase 10 anos de interesse, pesquisa e criação de código na área de design e implementação de sistemas operacionais. Há alguns anos venho estudando e desenvolvendo, como hobby, sistemas operacionais. Essa atividade gerou alguns frutos, dois sistemas operacionais atualmente em desenvolvimento e de código aberto, que podem inclusive receber contribuições da comunidade e que serão citados nos tutoriais, como exemplo de código. São eles o [Hexagonix](https://github.com/hexagonix) e o [Lunix OS](https://github.com/felipenlunkes/lunix). Além disso, irei citar diversos projetos de código aberto que me serviram de inspiração ou me ajudaram a compreender o funcionamento de vários componentes de um sistema operacional ou de hardware. Lembrando que você pode criar um fork de todos os projetos citados aqui e adicionar suas modificações, criando um campo de teste para praticar o que você vir aqui ou pesquisar por conta própria. Vale ressaltar que o [Hexagonix](https://github.com/hexagonix) é todo documentado em português, e busco colaboradores para auxiliar no desenvolvimento de ambos os sistemas (Hexagonix e Lunix OS). Sempre que possível, deixarei referências bibliográficas dos tópicos abordados aqui, para que você possa ler mais por conta própria.
 
+> Você também pode constribuir com o conteúdo desse repositório, agregando o máximo de experiência e conhecimento possíveis para auxiliar os outros! Me escreva em felipenldev@gmail.com para ser adicionado como contribuidor ou enviei sua constribuição por pull request!
+
 <hr>
 
 # O que você já precisa conhecer?
