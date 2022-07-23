@@ -33,3 +33,11 @@ Para seguir os tutoriais disponíveis aqui, é bom que você já tenha alguma ex
 ![virtualbox](https://img.shields.io/badge/VirtualBox-118515?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 <hr>
+
+# Vamos lá?
+
+## Tutorial
+
+## Referências
+
+* [Lista]() de projetos de sistemas operacionais de código livre em que você pode estudar, se inspirar e colaborar.
