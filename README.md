@@ -67,3 +67,5 @@ Agora vamos, finalmente, ao tutorial!
 * [Lista](https://github.com/felipenlunkes/osdevbr/blob/main/Refs/SO.md) de projetos de sistemas operacionais de código livre em que você pode estudar, se inspirar e colaborar.
 
 > Lista de bibliografia que pode ser consultada:
+
+> Outros tutorais interessantes para serem seguidos:
